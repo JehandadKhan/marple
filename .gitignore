@@ -10,3 +10,4 @@ src/main/*.frags
 src/main/*.p4
 src/main/*.json
 src/main/outputs
+apache-maven-3.5.0
